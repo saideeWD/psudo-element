@@ -1,0 +1,48 @@
+
+.nl{
+
+    border: 20px solid rgb(255, 0, 242);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 1%;
+    width: 50%;
+    display: inline-block;
+    float: none;
+
+
+}
+p{
+    
+    text-align: center;
+    
+    
+}
+p{
+    color: rgb(30, 205, 17);
+border-bottom: 20px;
+}
+#nl{
+    color: lime;
+    stroke: lime;
+    background-color: rgb(234, 235, 234);
+
+}
+i{
+
+    color: rgb(215, 30, 104);
+}
+.boder{
+
+    border: 10px dashed green;
+   
+}
+h1::after{
+
+    contain-intrinsic-inline-size: kloghgf;
+    color: lime;
+    background-color: mintcream;
+  
+   
+}
+
+

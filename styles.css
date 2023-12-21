@@ -1,0 +1,84 @@
+text-align: cen h1{
+    color: rgb(22, 211, 5);
+    text-align: center;
+}
+h2:hover{
+    color: rgb(255, 67, 242);
+}
+img{
+    border-radius: 50%;
+    border: 5px solid rgb(173, 252, 55);
+    display: block;
+    margin: 0 auto;
+   
+}
+#lk{ter;
+    color: rgb(201, 35, 230);
+
+   
+}
+
+.mn{
+
+    ;
+}
+
+
+
+.saide{
+border: 5px solid rgb(255, 67, 242);
+margin: 20px;
+width: 36%;
+float: left;
+padding: 12px;
+background-color: rgb(115, 235, 110);
+height: 780px;
+overflow: auto;
+}
+input:focus{
+
+    color: rgb(206, 33, 21);
+    background-color: rgb(255, 255, 255);
+}
+#zx{
+
+   
+ text-align: justify;
+    
+    border-radius:50% ;
+    display: block;
+    margin: 0 auto;
+}
+#ty{
+
+    text-align: center;
+}
+.tooltip .tooltip-text{
+/* visibility: hidden; */
+width: 150PX;
+background-color: rgb(181, 104, 214);
+color: lawngreen;
+border: 5PX;
+padding: 9px;
+border-radius: 10px;
+position: absolute;
+
+left: 110px;
+
+
+z-index: 1;
+position: absolute;
+top: 30px;
+left: 30px;
+
+}
+.tooltip{
+  
+    position: relative;}
+
+   
+
+   .tooltip-text:hover .tooltip{
+    visibility: visible;
+    background-color: rgb(212, 62, 12);
+   }
